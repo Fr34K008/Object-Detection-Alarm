@@ -7,3 +7,6 @@ A simple Arduino project to detect objects and sound the alarm using arduino UNO
 * LED x1
 * Buzzer x1
 
+# Circuit Diagram/Wiring 
+![Screenshot] ('/images/Object-Detection-Alarm.png')
+
