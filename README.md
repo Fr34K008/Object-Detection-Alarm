@@ -2,7 +2,7 @@
 A simple Arduino project to detect objects and sound the alarm using arduino UNO, Buzzer and IR infrared obstacle avoidance sensor
 
 # Components
-![Object-Detection-Alarm](![components](https://user-images.githubusercontent.com/70096616/154021224-d1f87632-e6e3-4fb4-be42-fd89a724f9b0.png)
+(![components](https://user-images.githubusercontent.com/70096616/154021224-d1f87632-e6e3-4fb4-be42-fd89a724f9b0.png)
 
 
 # Circuit Diagram/Wiring 
