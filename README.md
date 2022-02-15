@@ -8,6 +8,11 @@ A simple Arduino project to detect objects and sound the alarm using arduino UNO
 # Circuit Diagram/Wiring 
 ![Object-Detection-Alarm](https://user-images.githubusercontent.com/70096616/134899013-669e4b06-e044-4cd8-941e-6013db12b3cc.png)
 
+
+# Scehematics
+![schematics](https://user-images.githubusercontent.com/70096616/154023388-19f2a4eb-8a5c-4c41-a688-8a24609389e2.png)
+
+
 # Project in Action
 https://user-images.githubusercontent.com/70096616/134903071-aeb402f4-9c9b-4a76-b98e-2047258dd00c.mp4
 
